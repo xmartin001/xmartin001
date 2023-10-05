@@ -4,11 +4,11 @@
 - DESCRIPCION:
   
    El ejercicio trata de armar un contador con un arduino, y utilizar diferentes herramientas para hacer que los display vayan del 0 al 99,
-  para ello es muy importante el codigo. Se debera usar la técnica de multiplexación para mostrar los dígitos en los displays. 
--FUNCIÓN PRINCIPAL:
-
-
--LINK DEL PROCESO:
+  para ello es muy importante el codigo. Se debera usar la técnica de multiplexación para mostrar los dígitos en los displays.
+  
+- FUNCIÓN PRINCIPAL:
+  
+- LINK DEL PROCESO:
 
 
 
