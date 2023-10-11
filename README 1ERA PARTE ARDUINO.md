@@ -7,11 +7,12 @@
   para ello es muy importante el codigo. Se debera usar la técnica de multiplexación para mostrar los dígitos en los displays.
   
 - FUNCIÓN PRINCIPAL:
-  
+
+  La funcion principal es que tenemos tres pulsadores encender, decrecer, y reiniciar. Habra dos delay de 100 segundos.
 - LINK DEL PROCESO:
-
-
-
+  
+codigo= https://onlinegdb.com/yZiNskwgs
+tinkercard = https://www.tinkercad.com/things/4WN5E83FaIv-grand-crift/editel?sharecode=swTFP2nuXfrWSdEPyqSd39ZxLG1fYjUCNGCku1Hqnfg
 <!---
 xmartin001/xmartin001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
