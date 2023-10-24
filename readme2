@@ -1,0 +1,17 @@
+- Escalante Martin 1B
+- PROYECTO CONTADOR TEMPERATURA:
+
+- DESCRIPCION:
+  
+   El ejercicio trata de armar un contador con un arduino, al encender el interruptor deslizante apareceran en los displays
+  un contador del 1 al 99, ademas de que se encendera un motor, y para el boton del otro lado del interruptor se enciende un contador de 
+  numeros primos en un rango del 1 al 99. Para cambiar de uno al otro se debera tocar el boton deslizante esperar a que el contador llegue a 99 y luego se cambia de 
+  contador. Ademas tiene agregado unos pines que se encienden depende de la temperatura.
+  
+- FUNCIÓN PRINCIPAL:
+
+  La funcion principal es un sensor de temperatura y un fotoreceptor, ademas de agregarle un contador de enteros
+- LINK DEL PROCESO:
+  
+codigo= https://onlinegdb.com/7988ntj-rC
+tinkercard = https://www.tinkercad.com/things/cnCGa3r2Lhh-2da-escalante-martin-1b/editel?sharecode=p_1taHCg3lzW5QNSiVSx3q1j-D1OdF0reM36mmOKwKk
