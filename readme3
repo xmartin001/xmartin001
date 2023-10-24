@@ -1,0 +1,18 @@
+- Escalante Martin 1B
+- PROYECTO CONTADOR TEMPERATURA AGREGADO FOTORECEPTOR:
+
+- DESCRIPCION:
+  
+   El ejercicio trata de armar un contador con un arduino, al modificar el fotoreceptor apareceran en los displays
+  un contador del 1 al 99, ademas de que se encendera un motor, y para modificando el fotoreceptor se enciende un contador de 
+  numeros primos en un rango del 1 al 99. Para cambiar de uno al otro se debera mover el cursor de el fotoreceptor esperar a que el contador llegue a 99 y luego se cambia de 
+  contador. Ademas tiene agregado unos pines que se encienden depende de la temperatura.
+  
+- Funcion principal
+  La funcion principal es un sensor de temperatura y un fotoreceptor, ademas de agregarle un contador de enteros
+
+
+- LINK DEL PROCESO:
+  
+codigo= https://onlinegdb.com/EF9-OVBKt
+tinkercard = https://www.tinkercad.com/things/fTTFmgYtvEn-3ra-escalante-martin-1b/editel?sharecode=LeSAWKARrHguQbbp_85gFu3Oyq79oqoWthmlrroTOWQ
