@@ -3,8 +3,8 @@
 
 - DESCRIPCION:
   
-   El ejercicio trata de armar un contador con un arduino, y utilizar diferentes herramientas para hacer que los display vayan del 0 al 99,
-  para ello es muy importante el codigo. Se debera usar la técnica de multiplexación para mostrar los dígitos en los displays. Luego que muestre la temperatura
+   El ejercicio trata de armar un contador con un arduino, y utilizar diferentes herramientas para hacer que los display vayan del 0 al 99, y muestre numeros pares.
+   Para ello es muy importante el codigo. Se debera usar la técnica de multiplexación para mostrar los dígitos en los displays. Luego que muestre la temperatura
   en los displays, agregandole tambien un fotoreceptor cuando active.
   
 - FUNCIÓN PRINCIPAL:
@@ -12,5 +12,5 @@
   La funcion principal es un sensor de temperatura y un fotoreceptor, ademas de agregarle un contador de enteros
 - LINK DEL PROCESO:
   
-codigo= https://onlinegdb.com/j6B3eLuI5q
-tinkercard = https://www.tinkercad.com/things/cnCGa3r2Lhh-3era-escalante-martin-1b/editel?sharecode=p_1taHCg3lzW5QNSiVSx3q1j-D1OdF0reM36mmOKwKk
+codigo= https://onlinegdb.com/TzDrkTJ4l
+tinkercard = https://www.tinkercad.com/things/hQNINkhfaWz-4-ta-parte-escalante-martin-1b/editel?sharecode=ZUTPFrU_Gv3Jzx63AU6NzUHtVpcjVRg7pTNKjf71z8c
